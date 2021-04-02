@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm VJ
+### Hi there 👋 I'm VJ
 
 - 🔭 I’m currently studying in <b>NCHU</b>
 - 🌱 I’m currently learning <b>Computer Science</b>
