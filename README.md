@@ -2,7 +2,7 @@
 
 I'm VJ
 
-- 🔭 I’m currently studying in NCHU
-- 🌱 I’m currently learning computer science
-- 👯 I’m looking to collaborate on combining mainstream OS
-- 🤔 I’m looking for help with
+- 🔭 I’m currently studying in <b>NCHU</b>
+- 🌱 I’m currently learning <b>Computer Science</b>
+- 👯 I’m looking to collaborate on <b>combining mainstream OS</b>
+<!-- 🤔 I’m looking for help with
