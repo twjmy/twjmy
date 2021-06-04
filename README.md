@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=twjmy)
+
 ### Hi there 👋 I'm VJ
 
 - 🔭 I’m currently studying in <b>NCHU</b>
