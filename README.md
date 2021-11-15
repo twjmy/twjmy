@@ -1,10 +1,10 @@
 # Hi 👋, I'm VJ
 
-## A bachelor from National Chung Hsing University
+## A junior major in Computer Science from National Chung Hsing University
 
 35th NCHUIT Director  
 2021 NCHU GDSC Core member  
-112th NCHU CSE bachelor  
+112th NCHU CSE undergrad student  
 Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" Contestant of Hou Kong Middle School
 
 - 👯 I’m looking to collaborate on **combining mainstream OS**
