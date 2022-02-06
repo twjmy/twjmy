@@ -1,6 +1,6 @@
 # Hi 👋, I'm VJ
 
-## A junior major in Computer Science from National Chung Hsing University
+## A junior major in Computer Science at National Chung Hsing University
 
 35th NCHUIT Director  
 2021 NCHU GDSC Core member  
