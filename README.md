@@ -9,7 +9,7 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 
 - 👯 I’m looking to collaborate on **combining mainstream OS**
 - 📫 How to reach me **https://m.me/twjmy**
-- 🚴 I’m currently heading on colleage [project](../../../project)
+- 🚴 I’m currently heading on college [project](../../../project)
 - 🌱 I’m currently learning...
 	1. File Processing and I/O Systems
 	2. Network Security
