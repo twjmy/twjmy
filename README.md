@@ -1,4 +1,4 @@
-# Hi 👋, I'm VJ
+# Hi 👋, I’m VJ
 
 ## A junior major in Computer Science at National Chung Hsing University
 
@@ -9,13 +9,18 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 
 - 👯 I’m looking to collaborate on **combining mainstream OS**
 - 📫 How to reach me **https://m.me/twjmy**
+- 🚴 I’m currently heading on colleage [project](../../../project)
 - 🌱 I’m currently learning...
-	1. Data Structures
-	2. Operating Systems
-	3. Computer Organization
-	4. Database Management System
-	5. Data Communications
-	6. Local Area Networks
+	1. File Processing and I/O Systems
+	2. Network Security
+	3. Data Compression
+	4. Artificial Intelligent Internet of Things (AIoT)
+	5. Embedded Microprocessor System Design
+	- Data Structures*
+	- Operating Systems*
+	- Computer Organization*
+	- Data Communications*
+	- Local Area Networks*
 
 ## Overview[![](https://komarev.com/ghpvc/?username=twjmy)](#overview)
 
