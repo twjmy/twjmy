@@ -15,12 +15,12 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 	2. Network Security
 	3. Artificial Intelligent Internet of Things (AIoT)
 <!-- 	4. Data Compression
-	5. Embedded Microprocessor System Design -->
+	5. Embedded Microprocessor System Design
 	- Data Structures*
 	- Operating Systems*
 	- Computer Organization*
 	- Data Communications*
-	- Local Area Networks*
+	- Local Area Networks* -->
 
 ## Overview[![](https://komarev.com/ghpvc/?username=twjmy)](#overview)
 
