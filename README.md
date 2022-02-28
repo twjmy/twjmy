@@ -13,9 +13,9 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 - 🌱 I’m currently learning...
 	1. File Processing and I/O Systems
 	2. Network Security
-	3. Data Compression
-	4. Artificial Intelligent Internet of Things (AIoT)
-	5. Embedded Microprocessor System Design
+	3. Artificial Intelligent Internet of Things (AIoT)
+<!-- 	4. Data Compression
+	5. Embedded Microprocessor System Design -->
 	- Data Structures*
 	- Operating Systems*
 	- Computer Organization*
