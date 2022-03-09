@@ -8,7 +8,7 @@
 Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" Contestant of Hou Kong Middle School
 
 - 👯 I’m looking to collaborate on **combining mainstream OS**
-- 📫 How to reach me **https://m.me/twjmy**
+- 📫 How to reach me **twjmy@msn.com**
 - 🚴 I’m currently heading on college [project](../../../project)
 - 🌱 I’m currently learning...
 	1. File Processing and I/O Systems
