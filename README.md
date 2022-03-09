@@ -32,10 +32,13 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=twjmy&layout=compact&theme=github_dark)](#overview)
 
 ## Connect with me
-
-<a href="https://fb.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="twjmy" height="30" width="40" /></a>
-<a href="https://instagram.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twjmy" height="30" width="40" /></a>
-<a href="https://twitter.com/_twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_twjmy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13189986/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="twjmy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twjmy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="twjmy" height="30" width="40" /></a>
+<p>
+<a href="https://line.me/ti/p/FJxLyeOKgE" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/line-messenger.svg" alt="twjmy" height="30" width="40" /></a> 
+<a href="https://m.me/twjmy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/1200px-Facebook_Messenger_logo_2020.svg.png" alt="twjmy" height="30"/></a> 
+<a href="https://www.facebook.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="twjmy" height="30"/></a> 
+<a href="https://instagram.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twjmy" height="30"/></a> 
+<a href="https://twitter.com/_twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_twjmy" height="30"/></a> 
+<a href="https://stackoverflow.com/users/13189986/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="twjmy" height="30"/></a> 
+<a href="https://www.leetcode.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twjmy" height="30"/></a> 
+<a href="https://auth.geeksforgeeks.org/user/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="twjmy" height="30"/></a> 
+</p>
