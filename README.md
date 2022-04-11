@@ -33,10 +33,11 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 
 ## Connect with me
 <p>
-<a href="https://line.me/ti/p/FJxLyeOKgE" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/line-messenger.svg" alt="twjmy" height="30" width="40" /></a> 
+<a href="https://line.me/ti/p/FJxLyeOKgE" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/line-messenger.svg" alt="twjmy" height="30" /></a> 
 <a href="https://m.me/twjmy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/1200px-Facebook_Messenger_logo_2020.svg.png" alt="twjmy" height="30"/></a> 
 <a href="https://www.facebook.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="twjmy" height="30"/></a> 
 <a href="https://instagram.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twjmy" height="30"/></a> 
+<a href="https://osu.ppy.sh/users/11878347" target="blank"><img align="center" src="https://i.imgur.com/IWxZ6cg.png" alt="twjmy" height="30"/></a> 
 <a href="https://twitter.com/_twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_twjmy" height="30"/></a> 
 <a href="https://stackoverflow.com/users/13189986/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="twjmy" height="30"/></a> 
 <a href="https://www.leetcode.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twjmy" height="30"/></a> 
