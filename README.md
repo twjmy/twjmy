@@ -1,28 +1,36 @@
 # Hi 👋, I’m VJ
 
-## A junior major in Computer Science at National Chung Hsing University
+## A senior major in Computer Science at National Chung Hsing University
 
 35th NCHUIT Director  
-2021 NCHU GDSC Core member till Spring  
+2021 NCHU GDSC Core member(or not?) till Spring
 112th NCHU CSE undergrad student  
 Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" Contestant of Hou Kong Middle School
 
-- 👯 I’m looking to collaborate on **combining mainstream OS**
+- 👯 I’m looking a guide on **combining mainstream OS**
 - 📫 How to reach me **twjmy@msn.com**
-- 🚴 I’m currently heading on college [project](../../../project)
 - 🌱 I’m currently learning...
-	1. File Processing and I/O Systems
-	2. Network Security
-	3. Artificial Intelligent Internet of Things (AIoT)
-<!-- 	4. Data Compression
-	5. Embedded Microprocessor System Design
+	1. Bootstrap/UI/UX
+	2. Repair and launch a [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
+	3. launch a club [@NCHUIT](../../../../NCHUIT)
+<!-- 	3. Data Compression
+	4. Embedded Microprocessor System Design
 	- Data Structures*
 	- Operating Systems*
 	- Computer Organization*
 	- Data Communications*
 	- Local Area Networks* -->
 
-## Overview[![](https://komarev.com/ghpvc/?username=twjmy)](#overview)
+## Skills
+
+- HTML/CSS/JavaScript/JQuery/Semantic-UI font-end dev.
+- Python Request/BS4 web automated crawler
+- Java
+- Git
+- C/C++
+
+
+## Overview
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twjmy&theme=github_dark)](#overview)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=twjmy&theme=github_dark)](#overview)
@@ -43,3 +51,5 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 <a href="https://www.leetcode.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twjmy" height="30"/></a> 
 <a href="https://auth.geeksforgeeks.org/user/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="twjmy" height="30"/></a> 
 </p>
+
+[![](https://komarev.com/ghpvc/?username=twjmy)](#overview)
