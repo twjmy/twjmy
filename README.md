@@ -10,7 +10,7 @@
 - 📫 How to reach me **twjmy@msn.com**
 - 🌱 I’m currently learning...
 	1. Bootstrap/UI/UX
-	2. Repair, take over and launch a [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
+	2. Take over and launch a [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
 	3. Handover a club [@NCHUIT](../../../../NCHUIT)
 
 <!-- 	3. Data Compression
