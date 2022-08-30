@@ -2,10 +2,13 @@
 
 ## A senior major in Computer Science at National Chung Hsing University
 
-35th NCHUIT Director  
+35-36th NCHUIT Director  
 2021 NCHU GDSC Core member(or not?) till Spring  
 112th NCHU CSE undergrad student  
-Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" Contestant of Hou Kong Middle School
+
+## Honors
+2018 Contestant of Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" for Hou Kong Middle School
+2022 Instruct 3 colleage Contestants got 4th on type "break through level" of [GiCS.tw](https://gics.tw)
 
 - 👯 I’m looking a guide on **combining mainstream OS**
 - 📫 How to reach me **twjmy@msn.com**
@@ -32,7 +35,7 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 
 ## Biography
 
-Born in Taiwan, study till 3rd grade in primary, went and graduated from Macau Hou kong middle & high school.
+Born in Taiwan and study till 3rd grade in primary, then went and graduated from Macau Hou kong middle & high school.
 Now get back to Taiwan and major in Computer Science at National Chung Hsing University.
 
 ## Overview
