@@ -2,19 +2,15 @@
 
 ## A senior major in Computer Science at National Chung Hsing University
 
-35-36th NCHUIT Director  
-2021 NCHU GDSC Core member(or not?) till Spring  
-112th NCHU CSE undergrad student  
-
-## Honors
-2018 Contestant of Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" for Hou Kong Middle School
-2022 Instruct 3 colleage Contestants got 4th on type "break through level" of [GiCS.tw](https://gics.tw)
+- 👉 35-36th [@NCHUIT](../../../../NCHUIT) Director
+- 🦖 2021 [@(G)DSC-NCHU](https://github.com/DSC-NCHU) Core member(or not?) till Spring
+- 📚 112th NCHU CSE undergrad student
 
 - 👯 I’m looking a guide on **combining mainstream OS**
 - 📫 How to reach me **twjmy@msn.com**
 - 🌱 I’m currently learning...
 	1. Bootstrap/UI/UX
-	2. Repair and launch a [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
+	2. Repair, take over and launch a [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
 	3. Launch a club [@NCHUIT](../../../../NCHUIT)
 
 <!-- 	3. Data Compression
@@ -37,6 +33,12 @@
 
 Born in Taiwan and study till 3rd grade in primary, then went and graduated from Macau Hou kong middle & high school.
 Now get back to Taiwan and major in Computer Science at National Chung Hsing University.
+
+## Honors
+- 2014 Champion of 3rd grade in junior B class English essay competition by student union in Macau Hou kong middle school
+- 2018 Contestant of Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" for Hou Kong Middle School
+- 2021 Organize [@NCHUIT](../../../../NCHUIT) club awarded first class of all NCHU student clubs
+- 2022 Instruct 3 colleage Contestants awarded 4th on type "break through level" of [GiCS.tw](https://gics.tw)
 
 ## Overview
 
