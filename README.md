@@ -3,8 +3,8 @@
 ## A senior major in Computer Science at National Chung Hsing University
 
 - 👉 35-36th [@NCHUIT](../../../../NCHUIT) Director
-- 🦖 2021 [@(G)DSC-NCHU](https://github.com/DSC-NCHU) Core member(or not?) till Spring
 - 📚 112th NCHU CSE undergrad student
+- 🦖 2021 [@(G)DSC-NCHU](https://github.com/DSC-NCHU) Core member(or not?) till Spring
 
 - 👯 I’m looking a guide on **combining mainstream OS**
 - 📫 How to reach me **twjmy@msn.com**
