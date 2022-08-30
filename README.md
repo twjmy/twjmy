@@ -30,6 +30,10 @@ Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Ro
 - Git
 - C/C++
 
+## Biography
+
+Born in Taiwan, study till 3rd grade in primary, went and graduated from Macau Hou kong middle & high school.
+Now get back to Taiwan and major in Computer Science at National Chung Hsing University.
 
 ## Overview
 
