@@ -3,7 +3,7 @@
 ## A senior major in Computer Science at National Chung Hsing University
 
 35th NCHUIT Director  
-2021 NCHU GDSC Core member(or not?) till Spring
+2021 NCHU GDSC Core member(or not?) till Spring  
 112th NCHU CSE undergrad student  
 Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" Contestant of Hou Kong Middle School
 
