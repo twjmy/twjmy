@@ -38,7 +38,7 @@ Now get back to Taiwan and major in Computer Science at National Chung Hsing Uni
 - 2014 Champion of 3rd grade in junior B class English essay competition by student union in Macau Hou kong middle school
 - 2018 Contestant of Competição para a Selecção de Jovens de Macau para a Actividade "Ciência Robótica Integrada 2018" for Hou Kong Middle School
 - 2021 Organize [@NCHUIT](../../../../NCHUIT) club awarded first class of all NCHU student clubs
-- 2022 Instruct 3 colleage Contestants awarded 4th on type "break through level" of [GiCS.tw](https://gics.tw)
+- 2022 Instruct 3 colleage contestants awarded 4th on type "break through level" of [GiCS.tw](https://gics.tw)
 
 ## Overview
 
