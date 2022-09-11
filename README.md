@@ -24,7 +24,7 @@
 
 ## Biography
 
-Born in Taiwan and study till 3rd grade in primary, then went and graduated from Macau Hou kong middle & high school.
+Born in Taiwan and study till 3rd grade in primary, then went and graduated from Macau Hou Kong middle & high school.
 Now get back to Taiwan and major in Computer Science at National Chung Hsing University.
 
 ## Honors
