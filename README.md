@@ -9,17 +9,9 @@
 - 👯 I’m looking a guide on **combining mainstream OS**
 - 📫 How to reach me **twjmy@msn.com**
 - 🌱 I’m currently learning...
-	1. Bootstrap/UI/UX
-	2. Take over and launch a [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
+	1. Bootstrap/UI/UX, font-end development
+	2. Take over and launch an [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
 	3. Handover a club [@NCHUIT](../../../../NCHUIT)
-
-<!-- 	3. Data Compression
-	4. Embedded Microprocessor System Design
-	- Data Structures*
-	- Operating Systems*
-	- Computer Organization*
-	- Data Communications*
-	- Local Area Networks* -->
 
 ## Skills
 
