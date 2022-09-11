@@ -17,7 +17,7 @@
 
 - HTML/CSS/JavaScript/JQuery/Semantic-UI font-end dev.
 - Python Request/BS4 web automated crawler
-- php back-end dev.
+- php ft. MySQL back-end dev.
 - Java
 - Git
 - C/C++
