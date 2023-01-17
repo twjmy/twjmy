@@ -6,11 +6,12 @@
 - 📚 112th NCHU CSE undergrad student
 - 🦖 2021 [@(G)DSC-NCHU](../../../../DSC-NCHU) Core member(or not?) till Spring
 
-- 👯 I’m looking a guide on **combining mainstream OS**
+- 👯 I’m looking a guide on **combining mainstream OS**, ****
+	- Yes, as a senior, I still can't found a professor guide on that way...
 - 📫 How to reach me **twjmy@msn.com**
 - 🌱 I’m currently learning...
 	1. Bootstrap/UI/UX, font-end development
-	2. Take over and launch an [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
+	2. Takeover/handover and launch an [escape room](http://delab.cs.nchu.edu.tw/itsa/work.html)
 	3. Handover a club [@NCHUIT](../../../../NCHUIT)
 
 ## Skills
@@ -19,7 +20,6 @@
 - Python Request/BS4 web automated crawler
 - php ft. MySQL back-end dev.
 - Java
-- Git
 - C/C++
 
 ## Biography
