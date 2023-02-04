@@ -25,7 +25,8 @@
 ## Biography
 
 Born in Taiwan and study till 3rd grade in primary, then went and graduated from Macau Hou Kong middle & high school.
-Now get back to Taiwan and major in Computer Science at National Chung Hsing University.
+Major in Computer Science at Taiwan National Chung Hsing University.
+Director of 35-36th National Chung Hsing University Information Technology Club.
 
 ## Honors
 - 2014 Champion of 3rd grade in junior B class English essay competition by student union in Macau Hou kong middle school
