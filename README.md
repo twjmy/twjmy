@@ -6,7 +6,7 @@
 - 📚 112th NCHU CSE undergrad student
 - 🦖 2021 [@(G)DSC-NCHU](../../../../DSC-NCHU) Core member(or not?) till Spring
 
-- 👯 I’m looking a guide on **combining mainstream OS**, ****
+- 👯 I’m looking a guide on **combining mainstream OS**
 	- Yes, as a senior, I still can't found a professor guide on that way...
 - 📫 How to reach me **twjmy@msn.com**
 - 🌱 I’m currently learning...
@@ -18,7 +18,7 @@
 
 - HTML/CSS/JavaScript/JQuery/Semantic-UI font-end dev.
 - Python Request/BS4 web automated crawler
-- php ft. MySQL back-end dev.
+- php ft. MySQL back-end dev.(XAMPP)
 - Java
 - C/C++
 
