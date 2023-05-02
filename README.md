@@ -37,11 +37,9 @@ Director of 35-36th National Chung Hsing University Information Technology Club.
 ## Overview
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twjmy&theme=github_dark)](#overview)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=twjmy&theme=github_dark)](#overview)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=twjmy&theme=github_dark)](#overview)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=twjmy&layout=compact&&theme=github_dark)](#overview)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=twjmy&layout=compact&&theme=github_dark)](#overview)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=twjmy&layout=compact&theme=github_dark)](#overview)
 
 ## Connect with me
 <p>
