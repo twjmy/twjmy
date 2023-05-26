@@ -2,7 +2,7 @@
 
 ## A senior major in Computer Science <s>and Engineering</s> at National Chung Hsing University
 
-- 👉 35-36th [@NCHUIT](../../../../NCHUIT) Director
+- 👉 35-36th [@NCHUIT](../../../../NCHUIT) Leader
 - 📚 112th NCHU CSE undergrad student
 - 🦖 2021 [@(G)DSC-NCHU](../../../../DSC-NCHU) Core member(or not?) till Spring
 
