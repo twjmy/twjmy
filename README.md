@@ -1,6 +1,6 @@
 # Hi 👋, I’m VJ
 
-## A senior major in Computer Science <s>and Engineering</s> at National Chung Hsing University
+## A senior major in Computer Science ~~and Engineering~~ at NCHU
 
 - 👉 35-36th [@NCHUIT](../../../../NCHUIT) Leader
 - 📚 112th NCHU CSE undergrad student
