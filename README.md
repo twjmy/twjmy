@@ -49,10 +49,10 @@ Director of 35-36th National Chung Hsing University Information Technology Club.
 <a href="https://ig.me/m/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twjmy" height="30"/></a> 
 <a href="https://home.gamer.com.tw/twjmy" target="blank"><img align="center" src="https://forum.gamer.com.tw/favicon.ico" alt="twjmy" height="30" /></a> 
 <a href="https://live.xbox.com/profile?gamertag=twJmy" target="blank"><img align="center" src="https://learn.microsoft.com/zh-tw/gaming/icons/xbox.svg" alt="twjmy" height="30" /></a> 
-<a href="https://osu.ppy.sh/users/11878347" target="blank"><img align="center" src="https://i.imgur.com/IWxZ6cg.png" alt="twjmy" height="30"/></a> 
+<!-- <a href="https://osu.ppy.sh/users/11878347" target="blank"><img align="center" src="https://i.imgur.com/IWxZ6cg.png" alt="twjmy" height="30"/></a> 
 <a href="https://stackoverflow.com/users/13189986/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="twjmy" height="30"/></a> 
 <a href="https://www.leetcode.com/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twjmy" height="30"/></a> 
-<a href="https://auth.geeksforgeeks.org/user/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="twjmy" height="30"/></a> 
+<a href="https://auth.geeksforgeeks.org/user/twjmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="twjmy" height="30"/></a>  -->
 </p>
 
 [![](https://komarev.com/ghpvc/?username=twjmy)](#overview)
