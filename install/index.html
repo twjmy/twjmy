@@ -1,6 +1,11 @@
 <!DOCTYPE html>
+<head>
+    <style type="text/css">
+        a {  font: bold 16pt Arial;  text-decoration: none;  background-color: #EEEEEE;  color: #333333;  padding: 2px 6px 2px 6px;  border-top: 1px solid #CCCCCC;  border-right: 1px solid #333333;  border-bottom: 1px solid #333333;  border-left: 1px solid #CCCCCC;}
+    </style>
+</head>
 <body>
-    <a href="itms-services://?action=download-manifest&url=https://twjmy.github.io/twjmy/install/manifest.plist" class="button"> Install App </a>
+    <a href="itms-services://?action=download-manifest&url=https://twjmy.github.io/twjmy/install/manifest.plist" class="button" onclick="return confirm('Install App?')"> Install App </a>
     <script>
         open("itms-services://?action=download-manifest&url=https://twjmy.github.io/twjmy/install/manifest.plist")
     </script>
