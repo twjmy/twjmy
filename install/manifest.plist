@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/ComicSparks/pikapika/releases/download/v1.8.16/pikapika-v1.8.16-ios_nosign-flutter_3.13.9.ipa</string>
+                        <string>https://twjmy.github.io/twjmy/intsall/pikapika.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>display-image</string>
                         <key>url</key>
-                        <string>https://update.mdm.mil.tw/imdm/icon57.png</string>
+                        <string>https://twjmy.github.io/twjmy/imdm/icon57.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
                         <key>url</key>
-                        <string>https://update.mdm.mil.tw/imdm/icon512.png</string>
+                        <string>https://twjmy.github.io/twjmy/imdm/icon512.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
