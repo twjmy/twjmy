@@ -29,15 +29,15 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>MND.NCSIST.MDM.iOS</string>
+                    <string>opensource.pikapika</string>
                     <key>bundle-version</key>
-                    <string>8.1</string>
+                    <string>1.0.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>platform-identifier</key>
                     <string>com.apple.platform.iphoneos</string>
                     <key>title</key>
-                    <string>iOS_MDM</string>
+                    <string>pikapika</string>
                 </dict>
                 <!-- <dict>
                     <key>bundle-identifier</key>
